@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.4.1](https://github.com/testcontainers/testcontainers-python/compare/testcontainers-v4.4.0...testcontainers-v4.4.1) (2024-04-20)
+
+
+### Bug Fixes
+
+* url quote passwords ([#549](https://github.com/testcontainers/testcontainers-python/issues/549)) ([6c5d227](https://github.com/testcontainers/testcontainers-python/commit/6c5d227730d415111c54e7ea3cb5d86b549cc901))
+
 ## [4.4.0](https://github.com/testcontainers/testcontainers-python/compare/testcontainers-v4.3.3...testcontainers-v4.4.0) (2024-04-17)
 
 
